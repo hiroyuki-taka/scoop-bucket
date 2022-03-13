@@ -1,0 +1,8 @@
+{
+    "homepage": "http://shaw.la.coocan.jp/nsdl/",
+    "version": "1.0.4.3",
+    "url": "http://shaw.la.coocan.jp/nsdl/virtuansf1043.zip",
+    "bin": [
+        "VirtuaNSF.exe"
+    ]
+}
