@@ -5,6 +5,9 @@
     "architecture": {
         "32bit": {
             "url": "http://ppmck.web.fc2.com/ppmck/ppmck09a.zip"
+        },
+        "64bit": {
+            "url": "http://ppmck.web.fc2.com/ppmck/ppmck09a.zip"
         }
     },
     "bin": [
