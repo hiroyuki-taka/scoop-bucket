@@ -1,0 +1,14 @@
+{
+    "homepage": "http://shaw.la.coocan.jp/nsdl/",
+    "version": "1.30",
+    "license": "",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Shaw02/nsdlib/releases/download/v1.30/nsdl130.zip"
+        }
+    },
+    "bin": [
+        "bin\\nsc.exe",
+        "bin\\nsc64.exe"
+    ]
+}
