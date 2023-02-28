@@ -1,7 +1,7 @@
 {
     "homepage": "http://dmpsoft.s17.xrea.com/hoot/index.html",
-    "version": "20220227",
-    "url": "http://dmpsoft.s17.xrea.com/data/hoot20220227.7z",
+    "version": "20230109",
+    "url": "http://dmpsoft.s17.xrea.com/data/hoot20230109.7z",
     "bin": [
         "hoot.exe",
         "hootclient.exe"
